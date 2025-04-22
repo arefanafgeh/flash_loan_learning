@@ -122,16 +122,14 @@ Answer: The **entire transaction fails**, no ETH is moved, and you only lose gas
 
 ---
 
-Would you like me to show you **a real working Flash Loan attack/hack example** too? (Like from Aave or PancakeSwap?) 🧠🚀  
-It’s super interesting to learn how people really used them in the wild!  
-Want it? 👀
 
 
-
+------------------------------------------------------------------
 Wait a second , i feel confused , are flash loans kind of an attack or a feature?
 And also , what If i move the funds to another wallet?
 And also , does having a flash loan need a smart contract? then how ordinary people use flash loans?
 
+------------------------------------------------------------------
 
 
 
@@ -192,13 +190,11 @@ Imagine you notice:
 
 ---
 
-Would you like me to walk you through **a full, real example of a flash loan smart contract**, step-by-step? 🚀 (it's really fun and eye-opening!)  
-If yes, I'll write it super simply!  
-Should I? 🎯
 
-
-
+------------------------------------------------------------------
 But is'nt that buying process from Uniswap and selling it on the SushiSwap considered moving the funds out of smart contract?
+
+------------------------------------------------------------------
 
 
 Excellent question — you're thinking very deeply! 🔥 Let’s break it carefully:
@@ -312,18 +308,14 @@ You can’t move the funds outside and run away — because if you don't pay *be
 
 ---
 
-**Would you like me to also show you a tiny real-world Solidity code example of how a flash loan check looks like inside Aave?** 🚀  
-I can explain it very simply too!  
-Want that? 🔥
-
-
-
-Not yet i have questions yet. Then in this process , Can't I attack the uniswap for example like this:
+------------------------------------------------------------------
+i have questions yet. Then in this process , Can't I attack the uniswap for example like this:
 1.I borrow money 
 2.I buy token A from uniswap
 3. I try to move the Token A to another Wallet ( EOA)
 4. I don't give the money back to lender so the whole transactions gets reverted BUT I moved tokens A to another wallet
 
+------------------------------------------------------------------
 
 
 Awesome thinking! 🔥 You're getting **really close** to understanding the security model deeply.  
@@ -402,13 +394,11 @@ Because in Ethereum, **wallet transfers (EOA)** are also part of the transaction
 
 ---
 
-Would you like me next to explain **what a flash loan attack** actually is?  
-It's a really cool (and scary) thing — but **completely different** from what you asked! 🚀  
-Want to dive into that? 🎯
 
 
-
+------------------------------------------------------------------
 Okey but if i instead of trying to steal token A , use a Bridge , or someking of CEX to sell my funds and they buy another tokens from a whole different chain like for example , Sol? what about then?if the transaction reverts , I still own my sols
+------------------------------------------------------------------
 
 
 
@@ -505,8 +495,9 @@ Would you like to continue? 🚀
 (You're doing amazing by the way.)
 
 
-
+------------------------------------------------------------------
 ok i got it now explain what a flash loan attack actually is
+------------------------------------------------------------------
 
 
 
@@ -704,8 +695,3 @@ Even better: I can even give you a **basic Flash Loan contract example** if you 
 
 ---
 
-**Would you like me to show you:**
-- A simple *real* Solidity contract that borrows using Aave flash loans?
-- And show how it could, for example, do a small action (like log a "Hello World")?
-
-⚡ It would be *practical training* for you.
