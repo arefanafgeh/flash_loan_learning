@@ -599,18 +599,14 @@ You use the borrowed money **to temporarily create fake realities** that the vul
 
 ---
 
-# 🚀 Bonus
-
-Would you like me next to show you **a simple real Solidity example of a flash loan attack**, like a mini demo smart contract?  
-I can walk you through an actual exploit logic if you want!  
-(very beginner friendly — you'll see how flash loan attackers really code!) 
-
-Want me to? 🔥👨‍💻
 
 
 
+### Question
+------------------------------------------------------------------
 Should I write a custome smart contract to get flash Loans? And from where for example?
 Then tell me if I was not a developer , how can I get flash loans and from where for example and how much ?
+------------------------------------------------------------------
 
 
 
